@@ -15,5 +15,6 @@ This Webpage's aim is to aware peoples, that what kind of new technologies did i
 2. Review achievements periodically to stay motivated.
 
 If you have any comment or suggestion contact me on email.
+megfiramuhamedy@gmail.com
 
 AUTHOR : MEGFIRA MOHAMMED  
