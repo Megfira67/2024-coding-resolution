@@ -14,3 +14,5 @@ How to Use:
 1. Open the project files in a browser or editor.
 2. Add your goals and update status as you progress.
 3. Review achievements periodically to stay motivated.
+
+AUTHOR : MEGFIRA MOHAMMED
