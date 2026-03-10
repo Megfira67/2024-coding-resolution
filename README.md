@@ -1,18 +1,19 @@
-Goal Tracker 2024
+<h3>Description:</h3>
 
-Description:
-A simple tool to track and organize coding goals and achievements for 2024. 
-Helps you plan, monitor progress, and celebrate milestones.
+This Webpage's aim is to aware peoples, that what kind of new technologies did in 2024, what was their goal and how much they succeed on it And what they wish in future.
+ 
 
-Features:
-- Add and view your coding goals for the year
+<h3>Features:</h3>
+
 - Mark goals as completed and track achievements
 - Organized list format for easy management
 - Simple, lightweight, and easy to update
 
-How to Use:
-1. Open the project files in a browser or editor.
-2. Add your goals and update status as you progress.
-3. Review achievements periodically to stay motivated.
+<h3>How to Use:</h3>
 
-AUTHOR : MEGFIRA MOHAMMED
+1. Open the project files in a browser or editor.
+2. Review achievements periodically to stay motivated.
+
+If you have any comment or suggestion contact me on email.
+
+AUTHOR : MEGFIRA MOHAMMED  
